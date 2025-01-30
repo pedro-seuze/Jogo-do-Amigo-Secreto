@@ -1,7 +1,10 @@
-Amigo Secreto 🎁
-O Amigo Secreto é um projeto simples e interativo desenvolvido em HTML, CSS e JavaScript que permite aos usuários organizar um sorteio de amigo secreto. Com uma interface intuitiva, você pode adicionar nomes, sortear os pares e reiniciar o jogo facilmente.
+🎁 Amigo Secreto 
 
-Funcionalidades ✨
+O Amigo Secreto é um projeto simples e interativo desenvolvido em HTML, CSS e JavaScript que permite aos usuários organizar um sorteio de amigo secreto. 
+Com uma interface intuitiva, você pode adicionar nomes, sortear os pares e reiniciar o jogo facilmente.
+
+✨Funcionalidades 
+
 Adicionar Nomes: Insira os nomes dos participantes e visualize-os em uma lista.
 
 Validação de Nomes:
@@ -18,7 +21,8 @@ Reiniciar Jogo: Após o sorteio, reinicie o jogo para um novo sorteio.
 
 Interface Responsiva: Funciona bem em dispositivos móveis e desktops.
 
-Como Usar 🚀
+🚀Como Usar 
+
 1. Adicionar Nomes
 No campo de texto, digite o nome de um participante.
 
@@ -53,18 +57,13 @@ Navegador moderno (Google Chrome, Firefox, Edge, etc.).
 
 Editor de código (opcional, para visualizar o código-fonte).
 
-Passos
-Clone o repositório ou faça o download dos arquivos.
 
-bash
+📂Estrutura do Projeto 
+
+
 Copy
-git clone https://github.com/seu-usuario/amigo-secreto.git
-Abra o arquivo index.html no seu navegador.
 
-Comece a usar o projeto!
 
-Estrutura do Projeto 📂
-Copy
 amigo-secreto/
 │
 ├── index.html          # Arquivo principal do projeto
@@ -83,7 +82,8 @@ JavaScript: Lógica do sorteio e interações dinâmicas.
 
 Google Fonts: Fontes personalizadas (Inter e Merriweather).
 
-Possíveis Melhorias 🔧
+🔧Possíveis Melhorias 
+
 Salvar Resultados: Permitir que o usuário salve ou compartilhe o resultado do sorteio.
 
 Validação de Nomes Ignorando Maiúsculas/Minúsculas: Evitar nomes repetidos independentemente de letras maiúsculas ou minúsculas.
@@ -92,7 +92,8 @@ Limite de Nomes: Adicionar um limite máximo de nomes para evitar problemas de d
 
 Feedback Visual: Adicionar animações ou mensagens de confirmação ao adicionar nomes ou realizar o sorteio.
 
-Contribuição 🤝
+🤝Contribuição 
+
 Contribuições são bem-vindas! Siga os passos abaixo:
 
 Faça um fork do projeto.
@@ -105,10 +106,12 @@ Push para a branch (git push origin feature/nova-feature).
 
 Abra um Pull Request.
 
-Licença 📜
+📜Licença 
+
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Contato 📧
+📧Contato 
+
 Se tiver dúvidas ou sugestões, entre em contato:
 
 Nome: Pedro Galvão
